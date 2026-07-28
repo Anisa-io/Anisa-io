@@ -59,6 +59,13 @@ Motto:
 <img src="https://skillicons.dev/icons?i=python,cpp,linux,ubuntu,git,github,vscode,bash,mysql&theme=dark"/>
 
 </div>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Anisa-io&style=for-the-badge&color=blue)
+
+</div>
+
+---
 
 ---
 ## 📈 Contribution Activity
