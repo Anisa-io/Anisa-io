@@ -1,17 +1,14 @@
-<p align="center">
-  <img src="banner.png" alt="Anisa Banner" width="100%">
-</p>
-
-<br>
-
 <div align="center">
 
-# 👋 Hi, I'm Anisa
+<img src="banner.png" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Computer+Science+Student;Always+Learning+Something+New)](https://git.io/typing-svg)
+# ANISA
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Learning+Linux+%26+Python)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Anisa-io&label=Profile+Views&style=for-the-badge&color=2563EB"/>
 
 </div>
-<div align="center">
 
 <a href="https://www.linkedin.com/in/Anisa Tufail/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -133,3 +130,4 @@ Coming Soon...
 *"Always learning. Always building. Always improving."*
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
