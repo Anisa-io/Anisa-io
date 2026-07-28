@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="banner.png" alt="Anisa Banner" width="100%">
+</p>
+
+<br>
+
+<div align="center">
+
+# 👋 Hi, I'm Anisa
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Computer+Science+Student;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+</div>
 <div align="center">
 
 # 👋 Hi, I'm Anisa
