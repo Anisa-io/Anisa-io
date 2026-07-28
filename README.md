@@ -108,6 +108,9 @@ Motto:
 | 🛡️ SOC Home Lab | Coming Soon |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anisa-io&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 
 ## 🐍 Contribution Snake
 
