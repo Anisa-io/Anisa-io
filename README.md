@@ -28,7 +28,6 @@
 ## 🛡️ About Me
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
-yaml
 Name: Anisa
 
 Role: Computer Science Student
