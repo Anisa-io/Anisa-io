@@ -25,28 +25,30 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🛡️ About Me
 
 ```yaml
 Name: Anisa
 
-Education:
-  BS Computer Science
+Role: Computer Science Student
 
-Focus:
-  - SOC Analyst
-  - Cybersecurity
-  - Linux
-  - Networking
+Career Goal: SOC Analyst
 
 Currently Learning:
+  - Linux
   - Python
+  - Networking
   - Git & GitHub
-  - Ubuntu
   - SOC Fundamentals
 
-Goal:
-  Become a skilled SOC Analyst and build impactful cybersecurity projects.
+Interests:
+  - Blue Team
+  - Threat Detection
+  - Security Operations
+  - Open Source
+
+Motto:
+  "Learn. Build. Secure."
 ```
 
 ---
