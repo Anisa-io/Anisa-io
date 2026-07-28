@@ -23,11 +23,12 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
 ## 🛡️ About Me
 
-```yaml
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
+yaml
 Name: Anisa
 
 Role: Computer Science Student
@@ -49,9 +50,9 @@ Interests:
 
 Motto:
   "Learn. Build. Secure."
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 ## 💻 Tech Stack
 
 <div align="center">
@@ -65,14 +66,15 @@ Motto:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
----
+
 ## 📈 Contribution Activity
 
 [![Anisa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anisa-io&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 ## 🎯 Currently Learning
 
 - 🛡️ SOC Analyst Fundamentals
@@ -86,7 +88,7 @@ Motto:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -99,8 +101,7 @@ Motto:
 </a>
 
 </p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 # 🚀 Featured Projects
 
 | Project | Description |
@@ -111,7 +112,7 @@ Motto:
 | 📊 Log Analyzer | SOC Practice |
 | 🛡️ SOC Home Lab | Coming Soon |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -120,4 +121,11 @@ Coming Soon...
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Always learning. Always building. Always improving."*
+
+</div>
