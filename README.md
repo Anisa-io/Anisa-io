@@ -58,3 +58,10 @@ Goal:
 - 🌐 Networking
 - 🐍 Python for Cybersecurity
 - 🔧 Git & GitHub
+<div align="center">
+
+> **"Every expert was once a beginner. Every professional was once a student."**
+
+</div>
+
+---
