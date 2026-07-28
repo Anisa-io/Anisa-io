@@ -52,11 +52,11 @@ Motto:
 ```
 
 ---
-## ⚡ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,ubuntu,vscode,mysql,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,ubuntu,git,github,vscode,bash,mysql&theme=dark"/>
 
 </div>
 
