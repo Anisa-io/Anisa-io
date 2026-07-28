@@ -11,19 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Computer+Science+Student;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
-<div align="center">
 
-# 👋 Hi, I'm Anisa
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;Learning+Linux+%26+Python)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anisa-io&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-</div>
-
----
 
 ## 👩‍💻 About Me
 
