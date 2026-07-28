@@ -53,3 +53,17 @@ Goal:
 ---
 
 ---
+## 📈 Contribution Graph
+
+[![Anisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anisa-io&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anisa-io&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
