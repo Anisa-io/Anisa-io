@@ -1,6 +1,9 @@
 <div align="center">
 
 <img src="banner.png" width="100%"/>
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+</p>
 
 # ANISA
 
