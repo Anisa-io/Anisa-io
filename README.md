@@ -37,3 +37,12 @@ Goal:
 ```
 
 ---
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,ubuntu,vscode,mysql,bash&theme=dark" />
+
+</div>
+
+---
