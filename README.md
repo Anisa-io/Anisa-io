@@ -1,61 +1,56 @@
+<!--
+**Anisa-io/Anisa-io** - Professional SOC Analyst Dashboard
+-->
+
 <div align="center">
 
-<!--  ANIMATED HEADER -->
-[![Header Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117,1a472a,238636&height=280&section=header&text=Anisa&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=️%20Aspiring%20Tier%201%20SOC%20Analyst%20|%20BSCS%20Student&descSize=20&descColor=3FB950&descAlignY=55)](https://github.com/Anisa-io)
+<!-- 🎨 ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,1a1a2e,16213e&height=350&section=header&text=ANISA&fontSize=80&fontColor=00f2ff&animation=fadeIn&fontAlignY=30&desc=Computer%20Science%20Student&descSize=24&descColor=00f2ff&descAlignY=50" alt="Banner" width="100%"/>
 
-<!-- ⌨️ TYPING ANIMATION -->
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&width=650&height=50&lines=+Hunting+Threats+%7C+Analyzing+Logs;📊+Splunk+%7C+Wazuh+%7C+SIEM+Expert;💻+BSCS+Student+%7C+Cybersecurity+Enthusiast;🚨+Log+Analysis+%7C+Threat+Detection)
+<!-- ️ TYPING ANIMATION -->
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3fb950&center=true&vCenter=true&width=700&height=60&lines=🔍+Aspiring+Tier+1+SOC+Analyst;📊+Splunk+%7C+Wazuh+%7C+SIEM;💻+BSCS+Student+%7C+Python+Developer;🚨+Log+Analysis+%7C+Threat+Detection)
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 📊 STATUS BADGES
 
 <div align="center">
 
-| **🔐 Security & SIEM** | **💻 Operating Systems** | **⚙️ Development** |
-| :---: | :---: | :---: |
-| ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF00) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![Wazuh](https://img.shields.io/badge/Wazuh-333333?style=for-the-badge&logo=wazuh&logoColor=FFD700) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| | | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+![BS Computer Science](https://img.shields.io/badge/🎓-BS_Computer_Science-00f2ff?style=for-the-badge)
+![Future SOC Analyst](https://img.shields.io/badge/🛡️-Future_SOC_Analyst-3fb950?style=for-the-badge)
+![Linux Lover](https://img.shields.io/badge/🐧-Linux_Lover-fcc624?style=for-the-badge)
+![Python Developer](https://img.shields.io/badge/🐍-Python_Developer-3776ab?style=for-the-badge)
+![Always Improving](https://img.shields.io/badge/📈-Always_Improving-ff6b6b?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📊 SOC Analyst Dashboard (Analytics)
+## 📈 DASHBOARD ANALYTICS
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 📈 GitHub Stats (Bar Chart)
-![Anisa-io's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anisa-io&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&text_color=ffffff&icon_color=3FB950&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10)
+### 📊 GitHub Stats
+![Anisa-io's Stats](https://github-readme-stats.vercel.app/api?username=Anisa-io&show_icons=true&theme=dark&hide_border=true&title_color=00f2ff&text_color=ffffff&icon_color=3fb950&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10)
 
 </td>
 <td width="50%" align="center">
 
-### 🥧 Top Languages (Pie Chart)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisa-io&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&text_color=ffffff&bg_color=0d1117&border_radius=10&langs_count=5)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 📉 Contribution Activity (Line Graph)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anisa-io&bg_color=0d1117&color=3FB950&line=58A6FF&point=ffffff&area=true&hide_border=true&theme=react-dark&border_radius=10)](https://github.com/Anisa-io)
+### 🥧 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisa-io&layout=compact&theme=dark&hide_border=true&title_color=00f2ff&text_color=ffffff&bg_color=0d1117&border_radius=10&langs_count=5)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-### 🔥 Coding Streak
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anisa-io&theme=dark&hide_border=true&border_radius=10&background=0d1117&ring=3FB950&fire=3FB950&currStreakLabel=58A6FF&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff)](https://github.com/Anisa-io)
+### 🔥 GitHub Streak
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anisa-io&theme=dark&hide_border=true&border_radius=10&background=0d1117&ring=00f2ff&fire=00f2ff&currStreakLabel=3fb950&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff)](https://github.com/Anisa-io)
 
 </td>
 <td width="50%" align="center">
@@ -66,12 +61,64 @@
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+## 📉 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anisa-io&bg_color=0d1117&color=00f2ff&line=3fb950&point=ffffff&area=true&hide_border=true&theme=react-dark&border_radius=10)](https://github.com/Anisa-io)
 
 </div>
 
 ---
 
-##  Featured Projects
+## 🛠️ TECH STACK & SKILLS
+
+<div align="center">
+
+### 🔐 Security & SIEM Tools
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF00)
+![Wazuh](https://img.shields.io/badge/Wazuh-333333?style=for-the-badge&logo=wazuh&logoColor=FFD700)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 💻 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### ⚙️ Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+###  Tools & Design
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+## ️ CYBERSECURITY FOCUS
+
+<div align="center">
+
+- 🔍 **Log Analysis & Correlation** (Splunk, Wazuh)
+- 🚨 **Alert Triage & Incident Response**
+- 📊 **SIEM Dashboard Creation**
+- 🐧 **Linux/Ubuntu System Administration**
+- 🐍 **Security Automation with Python**
+
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
@@ -80,15 +127,34 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-3FB950?style=for-the-badge&logo=github)](https://github.com/Anisa-io/log-analysis-project)
 
-**Technologies:** `Splunk` `Wazuh` `Python` `Bash` `Linux`
+**Tech Stack:** `Splunk` `Wazuh` `Python` `Bash` `Linux`
 
-*Real-time log parsing, threat detection, and security incident analysis using industry-standard SIEM tools*
+*Real-time log parsing, threat detection, and security incident analysis using industry-standard SIEM tools.*
+
+---
+
+### 🚧 **More Projects Coming Soon!**
+*Currently building: Home SOC Lab, Custom Wazuh Rules, and Python Security Scripts.*
 
 </div>
 
 ---
 
-##  Certifications & Education
+##  CURRENTLY LEARNING
+
+<div align="center">
+
+![Advanced SOC Analysis](https://img.shields.io/badge/Advanced_SOC_Analysis-75%-00f2ff?style=for-the-badge)
+![Splunk SPL Queries](https://img.shields.io/badge/Splunk_SPL_Queries-60%-3fb950?style=for-the-badge)
+![Wazuh Rule Creation](https://img.shields.io/badge/Wazuh_Rule_Creation-55%-ff6b6b?style=for-the-badge)
+![Linux Command Line](https://img.shields.io/badge/Linux_Command_Line-80%-ffc107?style=for-the-badge)
+![Python for Security](https://img.shields.io/badge/Python_for_Security-70%-3776ab?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎓 CERTIFICATIONS & EDUCATION
 
 <div align="center">
 
@@ -101,21 +167,32 @@
 
 ---
 
-## 🗺️ Career Roadmap
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[BSCS Student] --> B[Cybersecurity Fundamentals]
-    B --> C[Splunk & Wazuh Mastery]
-    C --> D[Log Analysis Projects]
-    D --> E[Tier 1 SOC Analyst]
-    E --> F[Threat Hunter]
-    
-    style A fill:#0d1117,stroke:#58A6FF,stroke-width:3,color:#fff
-    style B fill:#161b22,stroke:#3FB950,stroke-width:2,color:#fff
-    style C fill:#161b22,stroke:#3FB950,stroke-width:2,color:#fff
-    style D fill:#161b22,stroke:#3FB950,stroke-width:2,color:#fff
-    style E fill:#238636,stroke:#58A6FF,stroke-width:3,color:#fff
-    style F fill:#0d1117,stroke:#58A6FF,stroke-width:2,color:#fff
+![Snake](https://github.com/Anisa-io/Anisa-io/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📫 CONNECT WITH ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anisa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anisa@email.com)
+
+*Let's connect and build something secure!* 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Anisa**  
+*Securing the digital world, one commit at a time* 🛡️
+
+</div>
