@@ -101,3 +101,14 @@ Motto:
 </p>
 
 ---
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔐 Password Strength Checker | Python project |
+| 🌐 Network Scanner | Learning Project |
+| 🐧 Linux Scripts | Automation |
+| 📊 Log Analyzer | SOC Practice |
+| 🛡️ SOC Home Lab | Coming Soon |
+
+---
