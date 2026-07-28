@@ -52,17 +52,9 @@ Motto:
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,linux,ubuntu,git,github,vscode,bash,mysql&theme=dark"/>
-
-</div>
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Anisa-io&style=for-the-badge&color=blue)
-
-</div>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,ubuntu,vscode,mysql,bash&theme=dark"/>
+</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=2"/>
 
