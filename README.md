@@ -1,3 +1,14 @@
+██████████████████████████████████
+
+        A N I S A
+
+Computer Science Student
+
+Aspiring SOC Analyst
+
+Linux • Python • Git • Ubuntu
+
+██████████████████████████████████
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Anisa
