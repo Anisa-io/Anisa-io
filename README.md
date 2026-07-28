@@ -34,5 +34,22 @@ Currently Learning:
 Goal:
   Become a Blue Team Cybersecurity Professional
 ```
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anisa-io&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisa-io&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Anisa-io&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 ---
